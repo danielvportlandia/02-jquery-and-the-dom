@@ -1,7 +1,7 @@
 'use strict';
 
-// COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
-// PUT YOUR RESPONSE HERE
+// DONE: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
+// The data on this page is an array of objects and their key/values are properties.  We created an array of these instances which we then iterated through to append the key value pairs to the DOM.  
 
 let rawData = [
   {
